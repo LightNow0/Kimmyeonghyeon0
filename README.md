@@ -4,7 +4,7 @@
 <img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <h2 align="center"> 📚 Studying 📚 </h2>
-<img align="center" src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Git-#F05032style=flat-square&logo=Git&logoColor=white"/>
 
 
 
