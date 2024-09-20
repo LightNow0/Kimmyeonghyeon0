@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>## Hi there 👋</h1>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=8CFBD1&width=435&lines=%F0%9F%8E%89Welcome+to+my+Github%F0%9F%8E%89)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmyeonghyeon0&layout=compact)
 
