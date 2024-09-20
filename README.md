@@ -1,14 +1,17 @@
 <p align="center">## Hi there 👋</p>
 
+<div align="center">
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-<img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <h2 align="center"> 📚 Studying 📚 </h2>
-<img align="center" src="https://img.shields.io/badge/Git-#F05032style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 
-
-
+</div>
 <!--
 **Kimmyeonghyeon0/Kimmyeonghyeon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
