@@ -2,7 +2,13 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=8CFBD1&width=435&lines=%F0%9F%8E%89Welcome+to+my+Github%F0%9F%8E%89)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmyeonghyeon0&layout=compact)
+<table>
+      <!-- Left: Top Languages Graph -->
+      <img src="https://github.com/user-attachments/assets/27152309-138a-436d-a697-5d30bd70b925" alt="Motorcycle" style="width: 500px;">
+      <!-- Right: Motorcycle Image -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmyeonghyeon0&layout=compact" alt="Most Used Languages" style="width: 300px;">
+</table>
+
 
 <hr>
 💻 Workspace<br>
