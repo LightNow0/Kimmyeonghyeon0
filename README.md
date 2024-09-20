@@ -12,7 +12,7 @@
 
 <hr>
 💻 Workspace<br>
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 
