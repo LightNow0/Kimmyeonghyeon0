@@ -1,6 +1,20 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&color=8CFBD1&width=435&lines=%F0%9F%8E%89Welcome+to+my+Github%F0%9F%8E%89)](https://git.io/typing-svg)
+<h1>🙋Welcome</h1> 
+<br>
+<h3><p>Self-introduction</p></h3>
+<p>
+
+Hello! My name is 🌟Myung-hyun Kim🌟<br>
+I live in Daejeon, South Korea.<br>
+Currently, I'm studying web development👾.<br>
+<br>
+My hobbies include watching 🍿movies🍿 and dramas,<br> 
+as well as riding my 🛵💨motorcycle🛵💨 I enjoy watching movies and dramas because they evoke emotions, <br>
+and riding my motorcycle gives me a sense of freedom, even if it's just for a little while.
+
+</p>
+
+
 
 <table>
       <!-- Left: Top Languages Graph -->
