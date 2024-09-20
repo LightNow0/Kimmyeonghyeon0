@@ -3,6 +3,12 @@
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<h2 align="center"> 📚 Studying 📚 </h2>
+<img align="center" src="https://img.shields.io/badge/Git-#F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+
+
+
 <!--
 **Kimmyeonghyeon0/Kimmyeonghyeon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
