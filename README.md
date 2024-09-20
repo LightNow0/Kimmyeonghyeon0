@@ -1,6 +1,6 @@
 <div align="center">
   <h1>## Hi there 👋</h1>
-(https://github-readme-stats.vercel.app/api?username=Kimmyeonghyeon0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmyeonghyeon0)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
