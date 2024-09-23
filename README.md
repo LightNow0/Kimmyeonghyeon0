@@ -59,6 +59,7 @@ and riding my motorcycle gives me a sense of freedom, even if it's just for a li
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audguss00915)](https://solved.ac/audguss00915/)
 
 
