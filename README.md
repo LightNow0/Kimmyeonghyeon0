@@ -58,7 +58,6 @@ and riding my motorcycle gives me a sense of freedom, even if it's just for a li
 </a>
 
 
-<br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=audguss00915)](https://solved.ac/audguss00915/)
 
 
 </div>
