@@ -42,7 +42,9 @@
             <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
         </div>
+        <div align="center">
         <img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
+        </div>
     </div>
 </body>
 </html>
