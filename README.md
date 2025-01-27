@@ -4,8 +4,12 @@
     <div class="center">
         <h1>👾 Welcome 👾</h1>
         <p>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Kimmyeonghyeon0}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimmyeonghyeon0&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Kimmyeonghyeon0"
+  width="600"
+  height="300"
+/>
 </a>
 <div>
   <h2>🌚 Hello, I'm Myung-hyun Kim🌝</h2>
