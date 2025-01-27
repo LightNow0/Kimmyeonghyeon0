@@ -4,13 +4,7 @@
     <div class="center">
         <h1>👾 Welcome 👾</h1>
         <p>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimmyeonghyeon0&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Kimmyeonghyeon0"
-  width="600"
-  height="300"
-/>
-</a>
+
             
 <div>
   <h2>🌚 Hello, I'm Myung-hyun Kim🌝</h2>
@@ -54,5 +48,13 @@
         <img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
         </div>
     </div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimmyeonghyeon0&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Kimmyeonghyeon0"
+  width="600"
+  height="300"
+/>
+</a>
 </body>
 </html>
+
