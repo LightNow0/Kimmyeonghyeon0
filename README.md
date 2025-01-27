@@ -4,6 +4,9 @@
     <div class="center">
         <h1>👾 Welcome 👾</h1>
         <p>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Kimmyeonghyeon0}?pet-id=1" width="1000" height="120"/>
+</a>
 <div>
   <h2>🌚 Hello, I'm Myung-hyun Kim🌝</h2>
   <p>
