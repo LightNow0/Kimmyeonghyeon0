@@ -1,12 +1,8 @@
 
 
 <body>
-    <div class="center">
-        <h1>👾 Welcome 👾</h1>
-        <p>
-
-            
-<div>
+     
+<div class="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a>
 </div>
         </p>
