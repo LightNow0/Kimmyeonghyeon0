@@ -3,7 +3,7 @@
 <body>
      
 <div class="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a>
+<img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
 </div>
         </p>
         <p>
@@ -34,10 +34,9 @@
             <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
         </div>
-        <div align="center">
-        <img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
         </div>
     </div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimmyeonghyeon0&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Kimmyeonghyeon0"
