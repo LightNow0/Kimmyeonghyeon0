@@ -7,12 +7,7 @@
 
             
 <div>
-  <h2>🌚 Hello, I'm Myung-hyun Kim🌝</h2>
-  <p>
-    🏠 Based in Daejeon, South Korea<br>
-    💻 Aspiring Web Developer<br>
-    🎬 Movie and Drama Enthusiast<br>
-    🏍️ Motorcycle Rider
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kimmyeonghyeon0&theme=dark&hide_border=false)<br/>
   </p>
 </div>
         </p>
