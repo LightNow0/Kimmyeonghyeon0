@@ -7,8 +7,7 @@
 
             
 <div>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kimmyeonghyeon0&theme=dark&hide_border=false)<br/>
-  </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a>
 </div>
         </p>
         <p>
