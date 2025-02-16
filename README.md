@@ -1,11 +1,6 @@
 
 
 <body>
-     
-<div class="center">
-<img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
-</div>
-        </p>
         <p>
             <a href="mailto:audguss00915@gmail.com" target="_blank">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -13,6 +8,19 @@
             <a href="https://discord.com/channels/352307310774976513" target="_blank">
                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
             </a>
+        </p>
+<div class="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LightNow0&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+<img src="https://github.com/user-attachments/assets/48051152-5412-4ac3-b718-bfd53761dafd" alt="Motorcycle">
+</div>
+        </p>
+        <p>
+<!--             <a href="mailto:audguss00915@gmail.com" target="_blank"> -->
+<!--                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> -->
+<!--             </a> -->
+<!--             <a href="https://discord.com/channels/352307310774976513" target="_blank"> -->
+<!--                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> -->
+<!--             </a> -->
         </p>
         <hr>
         <h3>💻 Tech Stack 💻</h3>
@@ -36,7 +44,7 @@
         </div>
         </div>
     </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a> -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimmyeonghyeon0&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Kimmyeonghyeon0"
